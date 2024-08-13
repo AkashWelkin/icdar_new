@@ -3,7 +3,7 @@ trainset :
   set: train
 
 testset : 
-  dataset: scriptnet
+  dataset: icdar2017
   set: test
 
 
